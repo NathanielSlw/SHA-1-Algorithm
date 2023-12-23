@@ -21,7 +21,8 @@ Here's how to run SHA-1 Algorithm:
 ```bash
 python3 main.py 
  ``````
-  
+Don't forget to be in the SHA-1-Algorithm folder (cd SHA-1-Algorithm)
+
 ### Steps
 Here are the different steps for the SHA-1 algorithm: 
 
