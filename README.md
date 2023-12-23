@@ -14,13 +14,13 @@ Open the terminal
 ```bash
 git clone https://github.com/NathanielSlw/SHA-1-Algorithm.git 
 cd SHA-1-Algorithm
-
-
+``````
 ### Usage
 
 Here's how to run SHA-1 Algorithm:
-  ```bash
-  python3 main.py 
+```bash
+python3 main.py 
+ ``````
   
 ### Steps
 Here are the different steps for the SHA-1 algorithm: 
