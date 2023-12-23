@@ -15,8 +15,9 @@ cd SHA-1-Algorithm
 ### Usage
 
 Here's how to run SHA-1 Algorithm:
-```bash
-python3 main.py 
+  ```bash
+  python3 main.py 
+
 
 Here are the different steps for the SHA-1 algorithm: 
 
