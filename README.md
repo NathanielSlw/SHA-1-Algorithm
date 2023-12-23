@@ -2,6 +2,8 @@
 This python code can be used to hash a text using the SHA-1 hashing algorithm
 => 40 characters at the end regardless of the input
 
+<img width="1094" alt="image" src="https://github.com/NathanielSlw/SHA-1-Algorithm/assets/130759155/57c57bb7-13ea-4463-befb-6188761fde50">
+
 Here are the different steps for the SHA-1 algorithm: 
 
 Source for the different steps : https://www.youtube.com/watch?v=kmHojGMUn0Q 
