@@ -9,15 +9,19 @@ This python code can be used to hash a text using the SHA-1 hashing algorithm
 To install SHA1 Algorithm, follow these steps:
 
 Windows, Linux and macOS:
+Open the terminal 
+
+```bash
 git clone https://github.com/NathanielSlw/SHA-1-Algorithm.git 
 cd SHA-1-Algorithm
+```bash
 
 ### Usage
 
 Here's how to run SHA-1 Algorithm:
   ```bash
   python3 main.py 
-
+  ```bash
 
 Here are the different steps for the SHA-1 algorithm: 
 
