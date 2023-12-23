@@ -4,6 +4,20 @@ This python code can be used to hash a text using the SHA-1 hashing algorithm
 
 <img width="1094" alt="image" src="https://github.com/NathanielSlw/SHA-1-Algorithm/assets/130759155/57c57bb7-13ea-4463-befb-6188761fde50">
 
+### Installation
+
+To install SHA1 Algorithm, follow these steps:
+
+Windows, Linux and macOS:
+git clone https://github.com/NathanielSlw/SHA-1-Algorithm.git 
+cd SHA-1-Algorithm
+
+### Usage
+
+Here's how to run SHA-1 Algorithm:
+```bash
+python3 main.py 
+
 Here are the different steps for the SHA-1 algorithm: 
 
 Source for the different steps : https://www.youtube.com/watch?v=kmHojGMUn0Q 
