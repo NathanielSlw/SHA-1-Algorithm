@@ -26,7 +26,7 @@ Don't forget to be in the SHA-1-Algorithm folder (cd SHA-1-Algorithm)
 ### Steps
 Here are the different steps for the SHA-1 algorithm: 
 
-Source for the different steps : https://www.youtube.com/watch?v=kmHojGMUn0Q 
+Source for the different steps : [How Does SHA-1 Work](https://www.youtube.com/watch?v=kmHojGMUn0Q)
 
 ### 1. Takes a text as input and divides it into an array of ASCII codes.
 
